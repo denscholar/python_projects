@@ -1,0 +1,14 @@
+Weekly Report: Kinetic Parts Project
+
+Tasks Accomplished:
+
+## Anonymous User Cart Functionality: Implemented the ability for anonymous users to add items to the cart. This includes setting up sessions on the API, which will be managed by the frontend to ensure a seamless shopping experience for all users.
+
+Backend Deployment Collaboration: Collaborated with Mr. Kelly on deploying the Kinetic backend. While we completed all the necessary setups, deployment to the server is pending due to unresolved challenges. We are actively working on addressing these issues.
+
+Bug Fixes in ALL_parts Endpoint:
+
+Resolved bugs in the ALL_parts endpoint that prevented Dolapo from fetching and displaying all parts on the frontend. The issue has been fixed, ensuring comprehensive part listings are now available.
+Search by Part Number Feature:
+
+Worked on completing the search by part number feature. This involved several discussions with Vanecia to gain a clearer understanding of the project requirements and how to align them with the available third-party API. This feature is now in place and functioning as expected.
